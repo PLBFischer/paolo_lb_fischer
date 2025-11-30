@@ -17,7 +17,7 @@ _November 2024 – Present_
 - **Independent collaboration integrated into the same position:**  
   - Developed a generative model predicting HSPC differentiation trajectories from sparse single-cell time-series  
   - Achieved state-of-the-art performance on synthetic and biological benchmarks  
-  - [Manuscript in preparation (first author)](manuscripts/icml.pdf)
+  - [Manuscript in preparation (first author)](manuscripts/distribution_conditioned_transport.pdf)
 
 ### Master’s Thesis — Harvard University  
 _March 2024 – November 2024_  
