@@ -22,7 +22,7 @@ _Nov 2024 – Present_
 **Project 1**  
 - Developed a new generative model architecture to forecast HSPC differentiation from sparse single-cell time-series data.  
 - Achieves state-of-the-art performance across synthetic benchmarks and biological datasets.  
-- Manuscript in preparation (co-first author).  
+- Manuscript in preparation (co-first author), available [here](manuscripts/distribution_conditioned_transport.pdf).  
 
 **Project 2**  
 - Leading the development of a novel AI-driven computational pipeline for few-shot protein optimization.  
@@ -33,8 +33,7 @@ _Nov 2024 – Present_
 _Mar 2024 – Nov 2024_  
 - Designed a novel method to vascularize 3D-printed organs by leveraging the natural branching mechanisms of fluids injected into organ tissue.  
 - Developed a high-performance finite element simulation of fluid branching with FEniCS in Python and identified material properties that enable the precise control of vascular structure.  
-- Preprint under review at Physical Review Letters (co-first author). Preprint:  
-  - [https://arxiv.org/abs/2509.26101](https://arxiv.org/pdf/2509.26101)  
+- Preprint under review at Physical Review Letters (co-first author). Available [here](https://arxiv.org/pdf/2509.26101).
 
 **2nd Place, Lonza and Bioincubate Competition — Zurich**  
 _Sep 2023 – May 2024_  
@@ -71,8 +70,7 @@ _Feb 2022 – Jul 2022_
 - Fischer P.\*, Tauber J.\* et al. **Self-organized adaptive branching in frangible matter.** Under Review.  
   Preprint: [https://arxiv.org/abs/2509.26101](https://arxiv.org/pdf/2509.26101)  
 
-- Fischer P.\*, Fishman N.\*, Gowri G.\* et al. **Distribution-Conditioned Transport.** Manuscript in preparation, accessible under:  
-  [https://plbfischer.github.io/paolo_lb_fischer/manuscripts/distribution_conditioned_transport.pdf](manuscripts/distribution_conditioned_transport.pdf)  
+- Fischer P.\*, Fishman N.\*, Gowri G.\* et al. **Distribution-Conditioned Transport.** Manuscript in preparation, accessible [here](manuscripts/distribution_conditioned_transport.pdf).
 
 - Fischer P., Michaels T. **Self-consistent analytical solutions for binodal lines of phase-separating ternary mixtures.** Manuscript in preparation.  
 
